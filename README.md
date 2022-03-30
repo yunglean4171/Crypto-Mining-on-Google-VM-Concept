@@ -27,5 +27,5 @@ And still generates decent hashrate then u can make some money on it.
 
 GOOD LUCK!
 
-# Legenda dla polskiej części odwiedzających:
+# Legenda dla polskiej części zainteresowanych:
 ![](https://i.imgur.com/u5YhhaD.png)
