@@ -1,5 +1,6 @@
 # Crypto Mining on Google VM Concept
 Here is my detected concept of crypto mining (monero in this case) using free trial google cloud vm instances.
+
 I came to the conclusion that "google inappropriate vm usage detetcion system" doesnt check ur files for the presence of crypto miner files. 
 It checks cpu usage graph.
 
