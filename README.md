@@ -14,13 +14,14 @@ t = t_min + RANDOMINT / t_max - t_min
 ```
 The second one is cpu usage formula:
 ```
-cpu=cpu_max + t*(cpu_min - cpu_max)/(t_max - t_min)
+cpu =c pu_max + t*(cpu_min - cpu_max)/(t_max - t_min)
 ```
 
 Im not good enough at math thats why I abandoned this project. 
 
 But if youre are able to improve these two formulas so the cpu usage graph look as random as like this:
 ![](https://i.imgur.com/0W8HlIc.png)
+
 And still generates decent hashrate then u can make some money on it.
 
 GOOD LUCK!
