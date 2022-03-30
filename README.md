@@ -1,1 +1,1 @@
-# Crypto-Mining-on-Google-VM-Concept
+# Crypto Mining on Google VM Concept
